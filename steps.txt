@@ -1,0 +1,5 @@
+Removed all predefined styles and add html, body and root styles
+Update tailwind.config.ts
+
+remove the default page.tsx and added a (site) root folder and put page.tsx in it, treating as a separate root folder
+Started on Auth form
